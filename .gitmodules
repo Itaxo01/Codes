@@ -4,3 +4,6 @@
 [submodule "Faculdade"]
 	path = Faculdade
 	url = git@github.com:Itaxo01/Faculdade.git
+[submodule "Web/Projeto-Nies-Solar"]
+	path = Web/Projeto-Nies-Solar
+	url = git@github.com:Itaxo01/Projeto-Nies-Solar.git
