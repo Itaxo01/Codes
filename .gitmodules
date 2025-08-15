@@ -1,3 +1,6 @@
 [submodule "Competitive-Programming"]
 	path = Competitive-Programming
 	url = git@github.com:Itaxo01/Competitive-Programming.git
+[submodule "Faculdade"]
+	path = Faculdade
+	url = git@github.com:Itaxo01/Faculdade.git
