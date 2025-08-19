@@ -1,1 +1,0 @@
-2013-2014 ACM-ICPC Brazil Subregional Programming Contest
